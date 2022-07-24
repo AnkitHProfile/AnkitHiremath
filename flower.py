@@ -1,3 +1,4 @@
+#This code creates a flower using turtle
 import turtle
 t=turtle.Turtle()
 s=turtle.Screen()
