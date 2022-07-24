@@ -1,3 +1,4 @@
+#This code creates an Apple logo using turtle.
 from turtle import*
 width(10)
 begin_fill()
